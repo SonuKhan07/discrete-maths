@@ -1,2 +1,2 @@
 # discrete-mathematics
-A repo containing all the lab programs related to Discrete Mathematics.
+All the Programs under Discrete Mathematics Lab (AKTU)
